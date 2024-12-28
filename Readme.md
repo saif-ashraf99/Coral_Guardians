@@ -1,4 +1,3 @@
----
 # Coral Guardians: A Generative AI-Based Underwater Monitoring System
 
 **Coral Guardians** is a demonstration project that uses Generative Adversarial Networks (GANs) to create synthetic underwater images—helping to augment datasets for coral reef detection. The project also leverages [YOLOv5](https://github.com/ultralytics/yolov5) for object detection and **Streamlit** for a simple web-based dashboard.
