@@ -1,0 +1,6 @@
+train: ../data/train/images
+val: ../data/val/images
+test: ../data/test/images
+
+nc: 3  # number of classes, e.g., coral, fish, debris
+names: [ 'coral', 'fish', 'debris' ]
